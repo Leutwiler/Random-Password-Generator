@@ -83,7 +83,7 @@ It is also linked to a CSS file.
         <p id="pass2-el"></p>
         <p id="pass3-el"></p>
         <p id="pass4-el"></p>
-        <script src="index.js"></script>
+        <script src="RandomPasswordGenerator.js"></script>
     </body>
 </html>
 ```
