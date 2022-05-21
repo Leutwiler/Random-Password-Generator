@@ -1,7 +1,6 @@
 # Random Password Generator
 
-<img src="Gerador de Senhas - Foto.PNG" alt="Random Password Generator" title="Random Password Generator">
-
+![Random Password Generator](https://github.com/Leutwiler/Random-Password-Generator/blob/main/Password%20Generator%20-%20App%20Pic.PNG?raw=true?style=centerme)
 
 In this repository you can find a random password generator. The user can input the desired number of characters for the output.
 
